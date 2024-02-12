@@ -1,0 +1,601 @@
+{
+    "data": [
+	{
+        "caseId": 97085,
+        "title": "11 pair ribs",
+        "studies": [
+            "117071"
+        ],
+        "url": "https://radiopaedia.org/cases/11-pair-ribs",
+        "system": "Musculoskeletal",
+        "author": "Ali Alsmair",
+        "published": "04 Sep 2022"
+    },
+    {
+        "caseId": 85480,
+        "title": "11 pairs of ribs",
+        "studies": [
+            "101165"
+        ],
+        "url": "https://radiopaedia.org/cases/11-pairs-of-ribs",
+        "system": "Chest",
+        "author": "Daniel J Bell",
+        "published": "28 Dec 2020"
+    },
+    {
+        "caseId": 61880,
+        "title": "11 pairs of ribs and lumbosacral transitional vertebra",
+        "studies": [
+            "69918"
+        ],
+        "url": "https://radiopaedia.org/cases/11-pairs-of-ribs-and-lumbosacral-transitional-vertebra",
+        "system": "Spine",
+        "author": "Yaïr Glick",
+        "published": "22 Jul 2018"
+    },
+    {
+        "caseId": 81675,
+        "title": "13 pairs of ribs and absent radius",
+        "studies": [
+            "95568"
+        ],
+        "url": "https://radiopaedia.org/cases/13-pairs-of-ribs-and-absent-radius",
+        "system": "Musculoskeletal",
+        "author": "Naim Qaqish",
+        "published": "02 Sep 2020"
+    },
+    {
+        "caseId": 95295,
+        "title": "1st metatarsal base comminuted fracture",
+        "studies": [
+            "114513"
+        ],
+        "url": "https://radiopaedia.org/cases/1st-metatarsal-base-comminuted-fracture",
+        "system": "Musculoskeletal",
+        "author": "Mohammad Osama Hussein Yonso",
+        "published": "06 Dec 2021"
+    },
+    {
+        "caseId": 99187,
+        "title": "1st metatarsal head fracture",
+        "studies": [
+            "120594"
+        ],
+        "url": "https://radiopaedia.org/cases/1st-metatarsal-head-fracture",
+        "system": "Trauma",
+        "author": "Angel Romero Domínguez",
+        "published": "22 Apr 2022"
+    },
+    {
+        "caseId": 33057,
+        "title": "24 hour ambulatory impedance pH test",
+        "studies": [
+            "34081"
+        ],
+        "url": "https://radiopaedia.org/cases/24-hour-ambulatory-impedance-ph-test",
+        "system": "Gastrointestinal",
+        "author": "Jayanth Keshavamurthy",
+        "published": "29 Dec 2014"
+    },
+    {
+        "caseId": 175058,
+        "title": "2nd metatarsus stress fracture",
+        "studies": [
+            "141009",
+            "141014"
+        ],
+        "url": "https://radiopaedia.org/cases/2nd-metatarsus-stress-fracture-3",
+        "system": "Musculoskeletal",
+        "author": "Farzaneh Shobeirian",
+        "published": "08 Sep 2023"
+    },
+    {
+        "caseId": 166121,
+        "title": "45 degrees and 90 degrees Dunn hip series",
+        "studies": [
+            "134984"
+        ],
+        "url": "https://radiopaedia.org/cases/45-degrees-and-90-degrees-dunn-hip-series",
+        "system": "Musculoskeletal",
+        "author": "Weiling Tan",
+        "published": "06 Apr 2023"
+    },
+    {
+        "caseId": 170059,
+        "title": "4th extensor compartment of wrist tenosynovitis",
+        "studies": [
+            "137659"
+        ],
+        "url": "https://radiopaedia.org/cases/4th-extensor-compartment-of-wrist-tenosynovitis",
+        "system": "Musculoskeletal",
+        "author": "Utkarsh Kabra",
+        "published": "10 Jun 2023"
+    },
+    {
+        "caseId": 162487,
+        "title": "4th toe partial thickness medial plantar plate tear",
+        "studies": [
+            "132454",
+            "132518",
+            "132455"
+        ],
+        "url": "https://radiopaedia.org/cases/4th-toe-partial-thickness-medial-plantar-plate-tear",
+        "system": "Musculoskeletal",
+        "author": "Dai Roberts",
+        "published": "14 Feb 2023"
+    },
+    {
+        "caseId": 47003,
+        "title": "5th metacarpal fracture",
+        "studies": [
+            "51537"
+        ],
+        "url": "https://radiopaedia.org/cases/5th-metacarpal-fracture-1",
+        "system": "Musculoskeletal",
+        "author": "Ian Bickle",
+        "published": "27 Jul 2016"
+    },
+    {
+        "caseId": 87914,
+        "title": "5th metatarsal base fracture",
+        "studies": [
+            "104421",
+            "104422"
+        ],
+        "url": "https://radiopaedia.org/cases/5th-metatarsal-base-fracture-2",
+        "system": "Musculoskeletal",
+        "author": "Mohammad Osama Hussein Yonso",
+        "published": "05 Aug 2021"
+    },
+    {
+        "caseId": 90149,
+        "title": "5th metatarsal Jones fracture",
+        "studies": [
+            "107334",
+            "107335"
+        ],
+        "url": "https://radiopaedia.org/cases/5th-metatarsal-jones-fracture",
+        "system": "Musculoskeletal",
+        "author": "Mohammad Osama Hussein Yonso",
+        "published": "06 Jun 2021"
+    },
+    {
+        "caseId": 80465,
+        "title": "5th proximal phalanx fracture",
+        "studies": [
+            "93863"
+        ],
+        "url": "https://radiopaedia.org/cases/5th-proximal-phalanx-fracture",
+        "system": "Musculoskeletal",
+        "author": "Dai Roberts",
+        "published": "13 Aug 2020"
+    },
+    {
+        "url": "https://radiopaedia.org/cases/5th-toe-proximal-phalanx-fracture",
+        "caseId": 52484,
+        "title": "5th toe  proximal phalanx fracture",
+        "studies": [
+            "58525",
+            "58526",
+            "58402"
+        ],
+        "system": "Trauma",
+        "author": "Aneta Kecler-Pietrzyk",
+        "published": "09 Apr 2017"
+    },
+    {
+        "caseId": 85766,
+        "title": "6th lumbar vertebra: lumbarization of S1",
+        "studies": [
+            "101577"
+        ],
+        "url": "https://radiopaedia.org/cases/6th-lumbar-vertebra-lumbarisation-of-s1",
+        "system": "Musculoskeletal",
+        "author": "Gonzalo Rodríguez Freytag",
+        "published": "30 Jan 2021"
+    },
+    {
+        "caseId": 21361,
+        "title": "7up, Coke down - mnemonic",
+        "studies": [
+            "21288"
+        ],
+        "url": "https://radiopaedia.org/cases/7up-coke-down-mnemonic",
+        "system": "",
+        "author": "",
+        "published": ""
+    },
+    {
+        "caseId": 79443,
+        "title": "8th and 9th rib convergance",
+        "studies": [
+            "92556"
+        ],
+        "url": "https://radiopaedia.org/cases/8th-and-9th-rib-convergance",
+        "system": "Musculoskeletal",
+        "author": "Sophie Gregory",
+        "published": "16 Dec 2022"
+    },
+    {
+        "caseId": 155260,
+        "title": "A2 pulley injury - ring finger",
+        "studies": [
+            "127988",
+            "128283"
+        ],
+        "url": "https://radiopaedia.org/cases/a2-pulley-injury-ring-finger",
+        "system": "Musculoskeletal",
+        "author": "Bahman Rasuli",
+        "published": "26 Oct 2022"
+    },
+    {
+        "caseId": 156573,
+        "title": "A4 flexor pulley injury",
+        "studies": [
+            "128787"
+        ],
+        "url": "https://radiopaedia.org/cases/a4-flexor-pulley-injury",
+        "system": "Trauma",
+        "author": "Michał Czerny",
+        "published": "24 Nov 2022"
+    },
+    {
+        "caseId": 153083,
+        "title": "ABC/2",
+        "studies": [
+            "126749"
+        ],
+        "url": "https://radiopaedia.org/cases/abc2",
+        "system": "Central Nervous System",
+        "author": "Anthony Liu",
+        "published": "22 Sep 2022"
+    },
+    {
+        "caseId": 54581,
+        "title": "Abdominal aorta and retroperitoneum (Gray's illustration)",
+        "studies": [
+            "60816"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aorta-and-retroperitoneum-grays-illustration",
+        "system": "Vascular",
+        "author": "Craig Hacking",
+        "published": "17 Jul 2017"
+    },
+    {
+        "caseId": 36394,
+        "title": "Abdominal aorta - normal MRA",
+        "studies": [
+            "37949"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aorta-normal-mra-1",
+        "system": "Vascular",
+        "author": "Frank Gaillard",
+        "published": "10 May 2015"
+    },
+    {
+        "caseId": 62812,
+        "title": "Abdominal aortic aneurysm on plain radiograph",
+        "studies": [
+            "71164"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aortic-aneurysm-on-plain-radiograph",
+        "system": "Vascular",
+        "author": "Daniel J Bell",
+        "published": "06 Feb 2019"
+    },
+    {
+        "caseId": 175406,
+        "title": "Abdominal aortic aneurysm with arterial thrombus",
+        "studies": [
+            "141207"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aortic-aneurysm-with-arterial-thrombus",
+        "system": "Vascular",
+        "author": "Kevan English",
+        "published": "15 Sep 2023"
+    },
+    {
+        "caseId": 50278,
+        "title": "Abdominal aortic aneurysm with intramural hematoma and ulcer-like projection then rupture",
+        "studies": [
+            "55631",
+            "55632"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aortic-aneurysm-with-intramural-haematoma-and-ulcer-like-projection-then-rupture",
+        "system": "Vascular",
+        "author": "Craig Hacking",
+        "published": "12 Apr 2017"
+    },
+    {
+        "caseId": 17111,
+        "title": "Abdominal aortic aneurysm - yin-yang sign",
+        "studies": [
+            "16805"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aortic-aneurysm-yin-yang-sign-1",
+        "system": "Vascular",
+        "author": "Omar Bashir",
+        "published": "17 Mar 2012"
+    },
+    {
+        "caseId": 176030,
+        "title": "Abdominal aortic thrombosis",
+        "studies": [
+            "141563"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-aortic-thrombosis-1",
+        "system": "Vascular",
+        "author": "Kevan English",
+        "published": "26 Sep 2023"
+    },
+    {
+        "caseId": 148650,
+        "title": "Abdominal ectopic pregnancy",
+        "studies": [
+            "123664"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-ectopic-pregnancy-1",
+        "system": "Obstetrics",
+        "author": "Hoe Han Guan",
+        "published": "06 Jul 2022"
+    },
+    {
+        "caseId": 90708,
+        "title": "Abdominal foreign body - bullet",
+        "studies": [
+            "108141",
+            "108138"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-foreign-body-bullet",
+        "system": "Gastrointestinal",
+        "author": "Mohammadtaghi Niknejad",
+        "published": "01 Jul 2021"
+    },
+    {
+        "caseId": 41615,
+        "title": "Abdominal foreign body: nail",
+        "studies": [
+            "44527"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-foreign-body-nail",
+        "system": "Gastrointestinal",
+        "author": "Christoph Berliner",
+        "published": "10 Dec 2015"
+    },
+    {
+        "caseId": 57421,
+        "title": "Abdominal foreign body - razor blade",
+        "studies": [
+            "64368",
+            "64369"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-foreign-body-razor-blade-1",
+        "system": "Gastrointestinal",
+        "author": "Bálint Botz",
+        "published": "23 Dec 2017"
+    },
+    {
+        "caseId": 149424,
+        "title": "Abdominal foreign body - screw",
+        "studies": [
+            "124254"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-foreign-body-screw",
+        "system": "Gastrointestinal",
+        "author": "Mostafa El-Feky",
+        "published": "02 Aug 2022"
+    },
+    {
+        "caseId": 57639,
+        "title": "Abdominal gossypiboma",
+        "studies": [
+            "64577"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-gossypiboma",
+        "system": "Gastrointestinal",
+        "author": "Imad Awwad",
+        "published": "04 Jan 2018"
+    },
+    {
+        "caseId": 57288,
+        "title": "Abdominal gossypiboma - surgical towel",
+        "studies": [
+            "64226"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-gossypiboma-surgical-towel-2",
+        "system": "Gastrointestinal",
+        "author": "Mohamed Abdel-Tawab Mohamed",
+        "published": "16 Dec 2017"
+    },
+    {
+        "caseId": 159347,
+        "title": "Abdominal Graft-versus-host disease and Sweet syndrome",
+        "studies": [
+            "130604"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-graft-versus-host-disease-and-sweet-syndrome",
+        "system": "Vascular",
+        "author": "Liz Silverstone",
+        "published": "10 Jul 2023"
+    },
+    {
+        "caseId": 174390,
+        "title": "Abdominal lymphadenopathy",
+        "studies": [
+            "140557"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-lymphadenopathy-6",
+        "system": "Gastrointestinal",
+        "author": "Satish Kumar Gupta",
+        "published": "01 Sep 2023"
+    },
+    {
+        "caseId": 53486,
+        "title": "Abdominal lymphoma - sandwich sign",
+        "studies": [
+            "59492"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-lymphoma-sandwich-sign-1",
+        "system": "Obstetrics",
+        "author": "Dalia Ibrahim",
+        "published": "20 May 2017"
+    },
+    {
+        "caseId": 66777,
+        "title": "Abdominal ratio",
+        "studies": [
+            "76108"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-ratio",
+        "system": "Vascular",
+        "author": "Craig Hacking",
+        "published": "05 Mar 2019"
+    },
+    {
+        "caseId": 54368,
+        "title": "Abdominal schwannomas",
+        "studies": [
+            "60583"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-schwannomas",
+        "system": "Oncology",
+        "author": "Amr Farouk",
+        "published": "06 Jul 2017"
+    },
+    {
+        "caseId": 90224,
+        "title": "Abdominal splenosis",
+        "studies": [
+            "107451",
+            "107447"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-splenosis",
+        "system": "Gastrointestinal",
+        "author": "Ammar Haouimi",
+        "published": "08 Jun 2021"
+    },
+    {
+        "caseId": 96872,
+        "title": "Abdominal splenosis",
+        "studies": [
+            "116786"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-splenosis-1",
+        "system": "Gastrointestinal",
+        "author": "Morouj Shaggah",
+        "published": "31 Jan 2022"
+    },
+    {
+        "caseId": 94011,
+        "title": "Abdominal wall and mesenteric desmoid fibromatosis (PET-CT)",
+        "studies": [
+            "112600",
+            "112604"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-and-mesenteric-desmoid-fibromatosis-pet-ct",
+        "system": "Musculoskeletal",
+        "author": "Dalia Ibrahim",
+        "published": "15 Oct 2021"
+    },
+    {
+        "caseId": 154506,
+        "title": "Abdominal wall desmoid tumor",
+        "studies": [
+            "127587"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-desmoid-tumor-2",
+        "system": "Gastrointestinal",
+        "author": "Michael P Hartung",
+        "published": "08 Nov 2022"
+    },
+    {
+        "caseId": 151851,
+        "title": "Abdominal wall desmoid tumor",
+        "studies": [
+            "125935"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-desmoid-tumor-1",
+        "system": "Gastrointestinal",
+        "author": "Michael P Hartung",
+        "published": "31 Aug 2022"
+    },
+    {
+        "caseId": 100086,
+        "title": "Abdominal wall desmoid tumor",
+        "studies": [
+            "121846"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-desmoid-tumor",
+        "system": "Musculoskeletal",
+        "author": "Michael P Hartung",
+        "published": "24 May 2022"
+    },
+    {
+        "caseId": 154505,
+        "title": "Abdominal wall gossypiboma",
+        "studies": [
+            "127586",
+            "128228"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-gossypiboma",
+        "system": "Gastrointestinal",
+        "author": "Michael P Hartung",
+        "published": "01 Nov 2022"
+    },
+    {
+        "caseId": 171568,
+        "title": "Abdominal wall hernia",
+        "studies": [
+            "138691"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-hernia",
+        "system": "Not Applicable",
+        "author": "Wedyan Yousef Alrasheed",
+        "published": "07 Aug 2023"
+    },
+    {
+        "caseId": 97086,
+        "title": "Abdominal wall pseudocyst secondary to lumboperitoneal shunt malpositioning",
+        "studies": [
+            "117072"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-wall-pseudocyst-secondary-to-lumboperitoneal-shunt-malpositioning",
+        "system": "Spine",
+        "author": "Ali Alsmair",
+        "published": "07 Feb 2022"
+    },
+    {
+        "caseId": 152498,
+        "title": "Abdominal whirl sign (whirlpool sign) of the mesentery",
+        "studies": [
+            "126407"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominal-whirl-sign-whirlpool-sign-of-the-mesentery",
+        "system": "Gastrointestinal",
+        "author": "Andrei Dumitrescu",
+        "published": "14 Sep 2022"
+    },
+    {
+        "caseId": 100036,
+        "title": "Abdominopelvic hydatid cyst",
+        "studies": [
+            "121776"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominopelvic-hydatid-cyst",
+        "system": "Urogenital",
+        "author": "Mohammadtaghi Niknejad",
+        "published": "28 May 2022"
+    },
+    {
+        "caseId": 99509,
+        "title": "Abdominopelvic neurofibromatosis with malignant peripheral nerve sheath tumor",
+        "studies": [
+            "121069"
+        ],
+        "url": "https://radiopaedia.org/cases/abdominopelvic-neurofibromatosis-with-malignant-peripheral-nerve-sheath-tumor",
+        "system": "Gastrointestinal",
+        "author": "Michael P Hartung",
+        "published": "04 May 2022"
+    }
+	]
+}

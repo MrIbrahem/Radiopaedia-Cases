@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<HTML lang=en dir=ltr xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="robots" content="noindex">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Radiopaedia Cases</title>
+
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css' rel='stylesheet'
+		type='text/css'>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/datatables.net-bs5/1.13.5/dataTables.bootstrap5.css'
+		rel='stylesheet' type='text/css'>
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.min.css' rel='stylesheet'
+		type='text/css'>
+
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/datatables.net/2.1.1/jquery.dataTables.min.js'></script>
+	<script
+		src='https://cdnjs.cloudflare.com/ajax/libs/datatables.net-bs5/1.13.5/dataTables.bootstrap5.min.js'></script>
+</head>
+<body>
+	<h1 class="mt-4">Radiopaedia Cases (55,521 case)</h1>
+	<div id="maindiv" class="container-fluid">
+		<div class="container">
+			<div class='card'>
+				<div class='card-body' style='padding:5px 0px 5px 5px;'>
+					<table id="example" class="table table-striped compact display" style="width:100%">
+						<thead>
+							<tr>
+								<th>caseId</th>
+								<th>title</th>
+								<th>studies</th>
+								<th>url</th>
+								<th>system</th>
+								<th>author</th>
+								<th>published</th>
+							</tr>
+						</thead>
+						<tfoot>
+							<tr>
+								<th>caseId</th>
+								<th>title</th>
+								<th>studies</th>
+								<th>url</th>
+								<th>system</th>
+								<th>author</th>
+								<th>published</th>
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+		var listFilesUrl = "example.json";
+		$('#example').DataTable({
+			paging: false,
+			// info: false,
+			// searching: false,
+			// order: [[ 0, "desc" ]],
+			ajax: listFilesUrl,
+			columns: [
+				{ data: 'caseId' },
+				{ data: 'title' },
+				{ data: 'studies' },
+				{ data: 'url' },
+				{ data: 'system' },
+				{ data: 'author' },
+				{ data: 'published' }
+			]
+		});
+	</script>
+</body>
+
+</html>
